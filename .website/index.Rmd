@@ -4,7 +4,7 @@ highlighter: "godzilla"
 summaryslide: TRUE
 lightsummaryslide: FALSE
 removeheader: FALSE #optional
-themecolor: "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,75,1) 100%, rgba(0,212,255,1) 100%)" #you may use any color or hex
+themecolor: "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,78,57,1) 64%)" #from https://cssgradient.io/
 codelang: "r" #default is R, you may add js php python and so on
 runningheader: "Compiling scripts for users to get started in R" # only for pdf output
 subtitle: "Easy R scripts to start coding in R" # only for html output
@@ -16,6 +16,7 @@ output:
     self_contained: TRUE
 link-citations: no
 summarypoints:
+    - Built with the "<b>scientific</b>" R package
     - The aim is to help new to medium R coders to write and organize their scripts
     - Preview for each script will be available
     - Output for each script will be available
@@ -23,7 +24,7 @@ summarypoints:
     - Key packages that will mostly be used to setup the script is RPKG's flagship R package "quickcode"
 ---
 
-# Introduction About R-scripts.rpkg.net
+# About R-scripts.rpkg.net
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar pellentesque habitant morbi tristique senectus et. Neque viverra justo nec ultrices. Non enim praesent elementum facilisis leo vel fringilla. Orci eu lobortis elementum nibh tellus molestie. Blandit turpis cursus in hac. Commodo sed egestas egestas fringilla phasellus faucibus. 
 

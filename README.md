@@ -39,7 +39,7 @@ All scripts will contain the following structure to organize the code
 #############################################################################
 #############################################################################
 
-# clear console and unload all packages to maintain script consistency
+# clear environment, console and unload all packages to maintain script consistency
 quickcode::clean(
   setwd = './', # set working directory
   source = c(), # script paths to be sourced in
